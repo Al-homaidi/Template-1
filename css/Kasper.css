@@ -15,11 +15,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    font-family: 'Cairo', sans-serif;
-    font-family: 'Jomhuria', serif;
     font-family: 'Open Sans', sans-serif;
-    font-family: 'Pacifico', cursive;
-    font-family: 'Work Sans', sans-serif;
 }
 ul{
     list-style: none;
